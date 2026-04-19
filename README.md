@@ -20,6 +20,7 @@
 | Mar 2026 | BeerTasting | [Der Braumeister tippt. Die KI braut.](https://www.beertasting.com/de/news/der-braumeister-tippt-die-ki-braut) |
 | Mar 2026 | KI Agenten | [Was ein KI gebrautes Bier über den Reifegrad agentischer Systeme verrät](https://ki-agenten.eu/lobster-lager-was-ein-ki-gebrautes-bier-ueber-den-reifegrad-agentischer-systeme-verraet/) |
 | Mar 2026 | NBC News | [At a lobster themed event for AI enthusiasts, exuberance with a side of cocktail sauce](https://www.nbcnews.com/tech/tech-news/lobster-themed-event-ai-enthusiasts-exuberance-side-cocktail-sauce-rcna261892) |
+| Mar 2026 | 36Kr | [OpenClaw "Lobster": Empower Your AI Agent to Anticipate the Future](https://eu.36kr.com/en/p/3720817143396993) |
 
 ## Syndicated via PR Newswire
 
