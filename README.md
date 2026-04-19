@@ -27,6 +27,21 @@
 
 ## Speaking
 
+Stefan works at the intersection of AI, automation, and organisational design. At Frontira, he and his team build agentic systems for clients across Europe and advise leadership teams on what changes when agents become part of the workforce.
+
+### Topics
+
+**Hybrid Teams: When Your Best Colleague Is an Agent**
+Humans and AI agents working side by side in daily delivery. How tasks, communication, and decisions change when half your team never sleeps, and what leaders need to get right to make it work.
+
+**Agentic Business Engineering**
+Agents are not just rewriting code, they are rewriting org charts. How agentic systems change the way organisations are designed, how work is funded, and where competitive advantage actually lives.
+
+**Service as an API: Building for an Agent-First World**
+In the near future, most services will be consumed by agents, not people. Organisations that turn what they do into programmable interfaces will thrive. The rest will become invisible.
+
+### Upcoming and Past
+
 | Date | Event | Talk |
 |------|-------|------|
 | Apr 2026 | [Sourcing International Frühlingsforum 2026](https://sourcing-international.org/events/fruhlingsforum-2026) | Wie Agenten schon heute Organisationen verändern (Vienna) |
