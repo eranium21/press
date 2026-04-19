@@ -4,6 +4,8 @@
 
 | Date | Outlet | Story |
 |------|--------|-------|
+| Apr 2026 | TED | [How I created OpenClaw, the breakthrough AI agent](https://www.ted.com/talks/peter_steinberger_how_i_created_openclaw_the_breakthrough_ai_agent) (Peter Steinberger TED Talk, Stefan + Gerhard mentioned) |
+| Apr 2026 | Der Standard | [Pensionist aus Salzburg lässt OpenClaw sein eigenes Bier brauen](https://www.derstandard.at/story/3000000315024/bier-brauen-openclaw-ki) |
 | Apr 2026 | Die Presse | [Wie ein KI Projekt aus Österreich bei Nvidia landen konnte](https://diepresse1848.podigee.io/1502-lobster) (Podcast) |
 | Apr 2026 | brutkasten | [Wie Stefan Erschwendner mit einem KI Bier auf der Nvidia Keynote landete](https://brutkasten.com/artikel/wie-stefan-erschwendner-mit-einem-ki-bier-auf-der-nvidia-keynote-landete) |
 | Mar 2026 | Business Insider DE | [Österreicher brauen Bier mit KI Agent und landen in Keynote vom Nvidia Chef](https://www.businessinsider.de/wirtschaft/oesterreicher-brauen-bier-mit-ki-agent-und-landen-in-keynote-vom-nvidia-chef/) |
@@ -22,6 +24,12 @@
 ## Syndicated via PR Newswire
 
 [Yahoo Finance](https://sg.finance.yahoo.com/news/first-beer-brewed-nvidia-world-173700020.html) · [Morningstar](https://www.morningstar.com/news/pr-newswire/20260318la13556/the-first-beer-brewed-on-the-nvidia-world-stage) · [IT News Online](https://www.itnewsonline.com/PRNewswire/THE-FIRST-BEER-BREWED-ON-THE-NVIDIA-WORLD-STAGE/1117724) · [StreetInsider](https://www.streetinsider.com/PRNewswire/THE+FIRST+BEER+BREWED+ON+THE+NVIDIA+WORLD+STAGE/26183357.html)
+
+## Speaking
+
+| Date | Event | Talk |
+|------|-------|------|
+| Apr 2026 | [Sourcing International Frühlingsforum 2026](https://sourcing-international.org/events/fruhlingsforum-2026) | Wie Agenten schon heute Organisationen verändern (Vienna) |
 
 ## Podcasts
 
