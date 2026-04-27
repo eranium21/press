@@ -56,6 +56,7 @@ In the near future, most services will be consumed by agents, not people. Organi
 | Date | Event | Talk |
 |------|-------|------|
 | Apr 2026 | [Sourcing International Frühlingsforum 2026](https://sourcing-international.org/events/fruhlingsforum-2026) | Wie Agenten schon heute Organisationen verändern (Vienna) |
+| Sep 2025 | [DDIM.regional München](https://ddim.de/events/ddim-regional-muenchen-11-september-2025/) | KI & Automatisierung: Vom Hype zum Impact, with Salzwelten case study (Munich) |
 
 ## Podcasts
 
