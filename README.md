@@ -4,6 +4,8 @@
 
 | Date | Outlet | Story |
 |------|--------|-------|
+| Apr 2026 | IT-Boltwise | [Vater und Sohn revolutionieren Bierbrauen mit KI](https://www.it-boltwise.de/vater-und-sohn-revolutionieren-bierbrauen-mit-ki.html) |
+| Apr 2026 | meinbezirk.at | [AIR Salzburg 2026: Frontira wins Most Promising AI Project + Best AI Project](https://www.meinbezirk.at/salzburg/c-regionauten-community/drei-auszeichnungen-fuer-das-projekt-der-salzburg-ag-zwei-fuer-das-projekt-der-oebb-infrastruktur-ag_a8605967) |
 | Apr 2026 | TED | [How I created OpenClaw, the breakthrough AI agent](https://www.ted.com/talks/peter_steinberger_how_i_created_openclaw_the_breakthrough_ai_agent) (Peter Steinberger TED Talk, Stefan + Gerhard mentioned) |
 | Apr 2026 | Der Standard | [Pensionist aus Salzburg lässt OpenClaw sein eigenes Bier brauen](https://www.derstandard.at/story/3000000315024/bier-brauen-openclaw-ki) |
 | Apr 2026 | Die Presse | [Wie ein KI Projekt aus Österreich bei Nvidia landen konnte](https://diepresse1848.podigee.io/1502-lobster) (Podcast) |
@@ -21,6 +23,7 @@
 | Mar 2026 | The AI Journal | [The First Beer Brewed on the NVIDIA World Stage](https://aijourn.com/the-first-beer-brewed-on-the-nvidia-world-stage/) |
 | Mar 2026 | BeerTasting | [Der Braumeister tippt. Die KI braut.](https://www.beertasting.com/de/news/der-braumeister-tippt-die-ki-braut) |
 | Mar 2026 | KI Agenten | [Was ein KI gebrautes Bier über den Reifegrad agentischer Systeme verrät](https://ki-agenten.eu/lobster-lager-was-ein-ki-gebrautes-bier-ueber-den-reifegrad-agentischer-systeme-verraet/) |
+| Mar 2026 | Shelly Palmer | [Corporate Claws](https://shellypalmer.com/2026/03/corporate-claws/) |
 | Mar 2026 | NBC News | [At a lobster themed event for AI enthusiasts, exuberance with a side of cocktail sauce](https://www.nbcnews.com/tech/tech-news/lobster-themed-event-ai-enthusiasts-exuberance-side-cocktail-sauce-rcna261892) |
 | Mar 2026 | echo24 | [NVIDIA Chef "schmeckts": Austria KI Agenten brauen und vermarkten Bier](https://www.echo24.de/welt/nvidia-chef-schmeckts-austria-ki-agenten-brauen-bewerben-bier-zr-94233062.html) |
 | Mar 2026 | WLZ-Online | [NVIDIA Chef "schmeckts": Austria KI Agenten brauen und vermarkten Bier](https://www.wlz-online.de/wirtschaft/nvidia-chef-schmeckts-austria-ki-agenten-brauen-bewerben-bier-zr-94233062.html) |
