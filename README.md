@@ -66,6 +66,12 @@ In the near future, most services will be consumed by agents, not people. Organi
 | Mar 2026 | Hanselminutes | [#1036: The Rise of The Claw](https://hanselminutes.com/1036/the-rise-of-the-claw-with-openclaws-peter-steinberger) (Scott Hanselman with Peter Steinberger) |
 | Sep 2019 | Business Punk "How to Hack" | [Stefan Erschwendner über agiles Arbeiten](https://www.business-punk.com/2019/09/how-to-hack-stefan-erschwendner-agiles-arbeiten/) |
 
+## TV
+
+| Date | Channel | Segment |
+|------|---------|---------|
+| Apr 2026 | RTS Regional TV Salzburg | [Neue Digitalstrategie soll Europas Unabhängigkeit deutlich stärken](https://www.rts-salzburg.at/clip/neue-digitalstrategie-soll-europas-unabhaengigkeit-deutlich-staerken/) (Stefan interview, Salzburg Magazin) |
+
 ## Social & Video
 
 | Date | Platform | Link |
