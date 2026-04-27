@@ -4,6 +4,7 @@
 
 | Date | Outlet | Story |
 |------|--------|-------|
+| Apr 2026 | **BILD** | [Ein Helles aus dem Computer, bitte! Vater und Sohn erfinden KI-Bier](https://www.bild.de/politik/inland/ein-helles-aus-dem-computer-bitte-vater-und-sohn-erfinden-ki-bier-69e5d950064e04c985e99d65) |
 | Apr 2026 | IT-Boltwise | [Vater und Sohn revolutionieren Bierbrauen mit KI](https://www.it-boltwise.de/vater-und-sohn-revolutionieren-bierbrauen-mit-ki.html) |
 | Apr 2026 | meinbezirk.at | [AIR Salzburg 2026: Frontira wins Most Promising AI Project + Best AI Project](https://www.meinbezirk.at/salzburg/c-regionauten-community/drei-auszeichnungen-fuer-das-projekt-der-salzburg-ag-zwei-fuer-das-projekt-der-oebb-infrastruktur-ag_a8605967) |
 | Apr 2026 | TED | [How I created OpenClaw, the breakthrough AI agent](https://www.ted.com/talks/peter_steinberger_how_i_created_openclaw_the_breakthrough_ai_agent) (Peter Steinberger TED Talk, Stefan + Gerhard mentioned) |
