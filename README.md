@@ -65,6 +65,7 @@ In the near future, most services will be consumed by agents, not people. Organi
 | Apr 2026 | Lex Fridman Podcast | [#491: OpenClaw: The Viral AI Agent that Broke the Internet](https://lexfridman.com/peter-steinberger/) (Peter Steinberger, Lobster Lager discussed) |
 | Apr 2026 | Die Presse "Was wichtig ist" | [Wie ein KI Projekt aus Österreich bei Nvidia landen konnte](https://diepresse1848.podigee.io/1502-lobster) |
 | Mar 2026 | Hanselminutes | [#1036: The Rise of The Claw](https://hanselminutes.com/1036/the-rise-of-the-claw-with-openclaws-peter-steinberger) (Scott Hanselman with Peter Steinberger) |
+| May 2026 | ÖW Talk (Österreich Werbung) | [Bier, KI und eine Nvidia Keynote](https://www.youtube.com/watch?v=URz87pILmBk) (Interview with Astrid Steharnig-Staudinger, CEO Österreich Werbung) |
 | Sep 2019 | Business Punk "How to Hack" | [Stefan Erschwendner über agiles Arbeiten](https://www.business-punk.com/2019/09/how-to-hack-stefan-erschwendner-agiles-arbeiten/) |
 
 ## TV
