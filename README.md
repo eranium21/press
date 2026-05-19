@@ -4,6 +4,7 @@
 
 | Date | Outlet | Story |
 |------|--------|-------|
+| May 2026 | DAS INVESTMENT | [Warum KI-Berater Stefan Erschwendner SaaS-Unternehmen für erledigt hält](https://www.dasinvestment.com/stefan-erschwendner-ki-agend-nvidia-keynote-lobster-lager/) |
 | Apr 2026 | **BILD** | [Ein Helles aus dem Computer, bitte! Vater und Sohn erfinden KI-Bier](https://www.bild.de/politik/inland/ein-helles-aus-dem-computer-bitte-vater-und-sohn-erfinden-ki-bier-69e5d950064e04c985e99d65) |
 | Apr 2026 | IT-Boltwise | [Vater und Sohn revolutionieren Bierbrauen mit KI](https://www.it-boltwise.de/vater-und-sohn-revolutionieren-bierbrauen-mit-ki.html) |
 | Apr 2026 | meinbezirk.at | [AIR Salzburg 2026: Frontira wins Most Promising AI Project + Best AI Project](https://www.meinbezirk.at/salzburg/c-regionauten-community/drei-auszeichnungen-fuer-das-projekt-der-salzburg-ag-zwei-fuer-das-projekt-der-oebb-infrastruktur-ag_a8605967) |
@@ -62,6 +63,7 @@ In the near future, most services will be consumed by agents, not people. Organi
 
 | Date | Show | Episode |
 |------|------|---------|
+| May 2026 | DAS INVESTMENT "For Professional Investors Only" | [Das überschätzteste Produkt im KI-Kosmos – und was stattdessen zählt](https://www.dasinvestment.com/stefan-erschwendner-ki-agend-nvidia-keynote-lobster-lager/) ([Spotify](https://open.spotify.com/episode/3BoKFdvIlk3t8fKyvbHx0k), [Apple Podcasts](https://podcasts.apple.com/de/podcast/for-professional-investors-only/id1734161078?i=1000768504394)) |
 | Apr 2026 | Lex Fridman Podcast | [#491: OpenClaw: The Viral AI Agent that Broke the Internet](https://lexfridman.com/peter-steinberger/) (Peter Steinberger, Lobster Lager discussed) |
 | Apr 2026 | Die Presse "Was wichtig ist" | [Wie ein KI Projekt aus Österreich bei Nvidia landen konnte](https://diepresse1848.podigee.io/1502-lobster) |
 | Mar 2026 | Hanselminutes | [#1036: The Rise of The Claw](https://hanselminutes.com/1036/the-rise-of-the-claw-with-openclaws-peter-steinberger) (Scott Hanselman with Peter Steinberger) |
