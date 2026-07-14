@@ -4,6 +4,7 @@
 
 | Date | Outlet | Story |
 |------|--------|-------|
+| Jun 2026 | TokenMade | [Wie Vater und Sohn mit ihrem Bier in die NVIDIA-Keynote kamen - Lobster Lager #04](https://www.youtube.com/watch?v=949ISiNU_6E) |
 | May 2026 | DAS INVESTMENT | [Warum KI-Berater Stefan Erschwendner SaaS-Unternehmen für erledigt hält](https://www.dasinvestment.com/stefan-erschwendner-ki-agend-nvidia-keynote-lobster-lager/) |
 | Apr 2026 | **BILD** | [Ein Helles aus dem Computer, bitte! Vater und Sohn erfinden KI-Bier](https://www.bild.de/politik/inland/ein-helles-aus-dem-computer-bitte-vater-und-sohn-erfinden-ki-bier-69e5d950064e04c985e99d65) |
 | Apr 2026 | IT-Boltwise | [Vater und Sohn revolutionieren Bierbrauen mit KI](https://www.it-boltwise.de/vater-und-sohn-revolutionieren-bierbrauen-mit-ki.html) |
