@@ -63,6 +63,7 @@ In the near future, most services will be consumed by agents, not people. Organi
 
 | Date | Show | Episode |
 |------|------|---------|
+| Jun 2026 | TokenMade | [Wie Vater und Sohn mit ihrem Bier in die NVIDIA-Keynote kamen - Lobster Lager #04](https://www.youtube.com/watch?v=949ISiNU_6E) |
 | May 2026 | DAS INVESTMENT "For Professional Investors Only" | [Das überschätzteste Produkt im KI-Kosmos – und was stattdessen zählt](https://www.dasinvestment.com/stefan-erschwendner-ki-agend-nvidia-keynote-lobster-lager/) ([Spotify](https://open.spotify.com/episode/3BoKFdvIlk3t8fKyvbHx0k), [Apple Podcasts](https://podcasts.apple.com/de/podcast/for-professional-investors-only/id1734161078?i=1000768504394)) |
 | Apr 2026 | Lex Fridman Podcast | [#491: OpenClaw: The Viral AI Agent that Broke the Internet](https://lexfridman.com/peter-steinberger/) (Peter Steinberger, Lobster Lager discussed) |
 | Apr 2026 | Die Presse "Was wichtig ist" | [Wie ein KI Projekt aus Österreich bei Nvidia landen konnte](https://diepresse1848.podigee.io/1502-lobster) |
