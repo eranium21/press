@@ -4,6 +4,7 @@
 
 | Date | Outlet | Story |
 |------|--------|-------|
+| Jul 2026 | **Handelsblatt** | [KI-Bier: So beeindruckte ein 68-jähriger Hobbybrauer den Nvidia-Chef](https://www.handelsblatt.com/unternehmen/mittelstand/ki-bier-so-beeindruckte-ein-68-jaehriger-hobbybrauer-den-nvidia-chef/100238432.html) (Entrepreneur of the Day) |
 | Jun 2026 | TokenMade | [Wie Vater und Sohn mit ihrem Bier in die NVIDIA-Keynote kamen - Lobster Lager #04](https://www.youtube.com/watch?v=949ISiNU_6E) |
 | May 2026 | DAS INVESTMENT | [Warum KI-Berater Stefan Erschwendner SaaS-Unternehmen für erledigt hält](https://www.dasinvestment.com/stefan-erschwendner-ki-agend-nvidia-keynote-lobster-lager/) |
 | Apr 2026 | **BILD** | [Ein Helles aus dem Computer, bitte! Vater und Sohn erfinden KI-Bier](https://www.bild.de/politik/inland/ein-helles-aus-dem-computer-bitte-vater-und-sohn-erfinden-ki-bier-69e5d950064e04c985e99d65) |
