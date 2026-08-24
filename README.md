@@ -4,6 +4,7 @@
 
 | Date | Outlet | Story |
 |------|--------|-------|
+| Aug 2026 | **On the Way to New Work** | [#572 Gerhard & Stefan Erschwendner: Bierbrauer und KI-Berater, Vater und Sohn](https://newwork.podigee.io/578-572-gerhard-stefan-erschwendner-bierbrauer-und-ki-berater-vater-und-sohn) (Podcast) |
 | Aug 2026 | **Golem.de** | [Openclaw: Ein Prompt, ein Bier?](https://www.golem.de/news/openclaw-ein-prompt-ein-bier-2608-211456.html) |
 | Jul 2026 | **Handelsblatt** | [KI-Bier: So beeindruckte ein 68-jähriger Hobbybrauer den Nvidia-Chef](https://www.handelsblatt.com/unternehmen/mittelstand/ki-bier-so-beeindruckte-ein-68-jaehriger-hobbybrauer-den-nvidia-chef/100238432.html) (Entrepreneur of the Day) |
 | Jun 2026 | TokenMade | [Wie Vater und Sohn mit ihrem Bier in die NVIDIA-Keynote kamen - Lobster Lager #04](https://www.youtube.com/watch?v=949ISiNU_6E) |
