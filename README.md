@@ -42,42 +42,6 @@
 
 [Yahoo Finance](https://sg.finance.yahoo.com/news/first-beer-brewed-nvidia-world-173700020.html) · [Morningstar](https://www.morningstar.com/news/pr-newswire/20260318la13556/the-first-beer-brewed-on-the-nvidia-world-stage) · [IT News Online](https://www.itnewsonline.com/PRNewswire/THE-FIRST-BEER-BREWED-ON-THE-NVIDIA-WORLD-STAGE/1117724) · [StreetInsider](https://www.streetinsider.com/PRNewswire/THE+FIRST+BEER+BREWED+ON+THE+NVIDIA+WORLD+STAGE/26183357.html) · [Ground News](https://ground.news/article/the-first-beer-brewed-on-the-nvidia-world-stage) · [ChartMill](https://www.chartmill.com/news/NVDA/prnews-2026-3-18-the-first-beer-brewed-on-the-nvidia-world-stage) · [Futunn](https://news.futunn.com/en/post/70042461/highlights-of-nvidia-s-gtc-the-lobster-playground-set-to)
 
-## Speaking
-
-Stefan works at the intersection of AI, automation, and organisational design. At Frontira, he and his team build agentic systems for clients across Europe and advise leadership teams on what changes when agents become part of the workforce.
-
-### Topics
-
-**Hybrid Teams: When Your Best Colleague Is an Agent**
-Humans and AI agents working side by side in daily delivery. How tasks, communication, and decisions change when half your team never sleeps, and what leaders need to get right to make it work.
-
-**Agentic Business Engineering**
-Agents are not just rewriting code, they are rewriting org charts. How agentic systems change the way organisations are designed, how work is funded, and where competitive advantage actually lives.
-
-**Service as an API: Building for an Agent-First World**
-In the near future, most services will be consumed by agents, not people. Organisations that turn what they do into programmable interfaces will thrive. The rest will become invisible.
-
-### Upcoming and Past
-
-| Date | Event | Talk |
-|------|-------|------|
-| Nov 2026 | [Sourcing International Circle of Excellence 2026](https://www.sourcing-international.org/events/circle-of-excellence-2026) | Agentic AI in der Umsetzung: Was heute wirklich passiert (Vienna) |
-| Nov 2026 | [TourismFastForward 2026](https://www.tourismfastforward.com/speaker/stefan-erschwendner/) | Wenn KI ins Handeln kommt: Was Agentic AI im Tourismus verändert (Keynote, Mayrhofen) |
-| Sep 2026 | [KI. Und jetzt?](https://www.strategieaustria.at/events/ki-und-jetzt) | Agentic AI: When Software Becomes Abundant (Keynote + panel, Linz) |
-| Jun 2026 | [VDI/VDE Innovation + Technik](https://www.vdivde-it.de/) | Agentic AI keynote and advisory session (Berlin) |
-| Jun 2026 | [AI Agents Summit 2026](https://ai-agents-summit.com/) | State of the Agentic Economy: What Changed in 12 Months (Opening keynote, Berlin) |
-| Jun 2026 | [Triff KI](https://www.good-school.de/) | Lobster Lager & Team (Online talk + Q&A) |
-| Jun 2026 | [LSZ IT Leaders Experience](https://lsz.at/kongress/it-leaders-experience-waidhofen) | Von der Idee zur Anwendung in wenigen Stunden: Erfahrungen aus der agentischen Softwareentwicklung (Workshop, Waidhofen an der Ybbs) |
-| Jun 2026 | [Cloud-Community Public-Administration #6](https://www.sourcing-international.org/en/news/ccpa-6-ein-tag-im-zeichen-der-nachsten-verwaltungsgeneration) | Agentic AI: Was kommt als Nächstes? (Vienna) |
-| Jun 2026 | [RTR / KommAustria: Alte Stärken, neue Mächte](https://www.rtr.at/medien/aktuelles/publikationen/Newsletter/newsletter_2026/nl_03_2026/Konvergente_Veranstaltung_RTR.html) | Agentic AI and the future of communications infrastructure (Keynote, Vienna) |
-| Jun 2026 | [FFG / TAFTIE Academy Networking Workshop](https://taftie.eu/academy-2/) | The AI-Beer NVIDIA Use Case: AI Disrupting an Innovation Agency's Business Model? (Keynote, Vienna) |
-| May 2026 | [Creative Catalyst Aperture](https://viennaup.com/) | Speaker + mentoring session (ViennaUP, Vienna) |
-| May 2026 | [ClawCon #2](https://viennaup.com/) | Lightning talk (ViennaUP, Vienna) |
-| Apr 2026 | [Sourcing International Frühlingsforum 2026](https://sourcing-international.org/events/fruhlingsforum-2026) | Wie Agenten schon heute Organisationen verändern (Vienna) |
-| Apr 2026 | [Austrian Leading Sights Workshop](https://austrianleadingsights.at/) | Quality and complaint management: AI-supported approaches (Panel, Familypark) |
-| Mar 2026 | [Strategie Austria: KI & Arbeitsalltag](https://www.strategieaustria.at/events/ki-arbeitsalltag-jetzt-wirds-ernst) | AI and the Future of Work (Keynote + panel, Vienna) |
-| Sep 2025 | [DDIM.regional München](https://ddim.de/events/ddim-regional-muenchen-11-september-2025/) | KI & Automatisierung: Vom Hype zum Impact, with Salzwelten case study (Munich) |
-
 ## Podcasts
 
 | Date | Show | Episode |
