@@ -4,6 +4,7 @@
 
 | Date | Outlet | Story |
 |------|--------|-------|
+| Sep 2026 | **Tech und Trara** | [Wir werden nie mehr so arbeiten wie heute - mit Stefan Erschwendner, Tina Kulow & Wolfgang Macht](https://open.spotify.com/episode/72LeAlMXcRK9y1MVmC4OKY) (Podcast) |
 | Aug 2026 | **On the Way to New Work** | [#572 Gerhard & Stefan Erschwendner: Bierbrauer und KI-Berater, Vater und Sohn](https://newwork.podigee.io/578-572-gerhard-stefan-erschwendner-bierbrauer-und-ki-berater-vater-und-sohn) (Podcast) |
 | Aug 2026 | **Zoomer Meets Boomer** | [#79 Lobster Lager mit Gerhard & Stefan Erschwendner](https://zoomer-meets-boomer.podigee.io/80-neue-episode) (Podcast) |
 | Aug 2026 | **Golem.de** | [Openclaw: Ein Prompt, ein Bier?](https://www.golem.de/news/openclaw-ein-prompt-ein-bier-2608-211456.html) |
@@ -46,6 +47,7 @@
 
 | Date | Show | Episode |
 |------|------|---------|
+| Sep 2026 | Tech und Trara | [Wir werden nie mehr so arbeiten wie heute - mit Stefan Erschwendner, Tina Kulow & Wolfgang Macht](https://open.spotify.com/episode/72LeAlMXcRK9y1MVmC4OKY) |
 | Aug 2026 | On the Way to New Work / Zoomer Meets Boomer | [#572 Gerhard & Stefan Erschwendner: Bierbrauer und KI-Berater, Vater und Sohn](https://newwork.podigee.io/578-572-gerhard-stefan-erschwendner-bierbrauer-und-ki-berater-vater-und-sohn) ([Spotify](https://open.spotify.com/episode/7usCZzVQp5pINjMgCyoNG0), [Zoomer edition](https://zoomer-meets-boomer.podigee.io/80-neue-episode)) |
 | Jun 2026 | TokenMade | [Wie Vater und Sohn mit ihrem Bier in die NVIDIA-Keynote kamen - Lobster Lager #04](https://www.youtube.com/watch?v=949ISiNU_6E) |
 | May 2026 | DAS INVESTMENT "For Professional Investors Only" | [Das überschätzteste Produkt im KI-Kosmos – und was stattdessen zählt](https://www.dasinvestment.com/stefan-erschwendner-ki-agend-nvidia-keynote-lobster-lager/) ([Spotify](https://open.spotify.com/episode/3BoKFdvIlk3t8fKyvbHx0k), [Apple Podcasts](https://podcasts.apple.com/de/podcast/for-professional-investors-only/id1734161078?i=1000768504394)) |
