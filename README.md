@@ -4,6 +4,7 @@
 
 | Date | Outlet | Story |
 |------|--------|-------|
+| Oct 2026 | **Die Presse** | [KI-Agenten: Warum trotz aller Warnungen niemand bremst](https://www.diepresse.com/41319730/ki-agenten-warum-trotz-aller-warnungen-niemand-bremst) ([Podcast](https://diepresse1848.podigee.io/1641-devday)) |
 | Sep 2026 | **Tech und Trara** | [Wir werden nie mehr so arbeiten wie heute - mit Stefan Erschwendner, Tina Kulow & Wolfgang Macht](https://open.spotify.com/episode/72LeAlMXcRK9y1MVmC4OKY) (Podcast) |
 | Aug 2026 | **On the Way to New Work** | [#572 Gerhard & Stefan Erschwendner: Bierbrauer und KI-Berater, Vater und Sohn](https://newwork.podigee.io/578-572-gerhard-stefan-erschwendner-bierbrauer-und-ki-berater-vater-und-sohn) (Podcast) |
 | Aug 2026 | **Zoomer Meets Boomer** | [#79 Lobster Lager mit Gerhard & Stefan Erschwendner](https://zoomer-meets-boomer.podigee.io/80-neue-episode) (Podcast) |
@@ -47,6 +48,7 @@
 
 | Date | Show | Episode |
 |------|------|---------|
+| Oct 2026 | Die Presse "Was wichtig ist" | [KI-Agenten: Warum trotz aller Warnungen niemand bremst](https://diepresse1848.podigee.io/1641-devday) ([Article](https://www.diepresse.com/41319730/ki-agenten-warum-trotz-aller-warnungen-niemand-bremst)) |
 | Sep 2026 | Tech und Trara | [Wir werden nie mehr so arbeiten wie heute - mit Stefan Erschwendner, Tina Kulow & Wolfgang Macht](https://open.spotify.com/episode/72LeAlMXcRK9y1MVmC4OKY) |
 | Aug 2026 | On the Way to New Work / Zoomer Meets Boomer | [#572 Gerhard & Stefan Erschwendner: Bierbrauer und KI-Berater, Vater und Sohn](https://newwork.podigee.io/578-572-gerhard-stefan-erschwendner-bierbrauer-und-ki-berater-vater-und-sohn) ([Spotify](https://open.spotify.com/episode/7usCZzVQp5pINjMgCyoNG0), [Zoomer edition](https://zoomer-meets-boomer.podigee.io/80-neue-episode)) |
 | Jun 2026 | TokenMade | [Wie Vater und Sohn mit ihrem Bier in die NVIDIA-Keynote kamen - Lobster Lager #04](https://www.youtube.com/watch?v=949ISiNU_6E) |
