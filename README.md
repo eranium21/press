@@ -4,6 +4,7 @@
 
 | Date | Outlet | Story |
 |------|--------|-------|
+| Oct 2026 | **Business Punk** | [Agentic Business Engineering: Der nächste Schritt von OpenAI](https://www.business-punk.com/agentic-business-engineering-der-naechste-schritt-von-openai/) (Interview with Carsten Puschmann, 8 October) |
 | Oct 2026 | **Die Presse** | [KI-Agenten: Warum trotz aller Warnungen niemand bremst](https://www.diepresse.com/41319730/ki-agenten-warum-trotz-aller-warnungen-niemand-bremst) ([Podcast](https://diepresse1848.podigee.io/1641-devday)) |
 | Sep 2026 | **Tech und Trara** | [Wir werden nie mehr so arbeiten wie heute - mit Stefan Erschwendner, Tina Kulow & Wolfgang Macht](https://open.spotify.com/episode/72LeAlMXcRK9y1MVmC4OKY) (Podcast) |
 | Aug 2026 | **On the Way to New Work** | [#572 Gerhard & Stefan Erschwendner: Bierbrauer und KI-Berater, Vater und Sohn](https://newwork.podigee.io/578-572-gerhard-stefan-erschwendner-bierbrauer-und-ki-berater-vater-und-sohn) (Podcast) |
