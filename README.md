@@ -1,5 +1,7 @@
 # Press & Media
 
+Selected editorial coverage, interviews, podcasts and third-party mentions of Stefan Erschwendner, Frontira and Lobster Lager. A mention in another person's talk or podcast is labelled as such; syndicated copies are listed separately.
+
 ## Featured
 
 | Date | Outlet | Story |
@@ -17,14 +19,14 @@
 | Apr 2026 | **BILD** | [Ein Helles aus dem Computer, bitte! Vater und Sohn erfinden KI-Bier](https://www.bild.de/politik/inland/ein-helles-aus-dem-computer-bitte-vater-und-sohn-erfinden-ki-bier-69e5d950064e04c985e99d65) |
 | Apr 2026 | IT-Boltwise | [Vater und Sohn revolutionieren Bierbrauen mit KI](https://www.it-boltwise.de/vater-und-sohn-revolutionieren-bierbrauen-mit-ki.html) |
 | Apr 2026 | meinbezirk.at | [AIR Salzburg 2026: Frontira wins Most Promising AI Project + Best AI Project](https://www.meinbezirk.at/salzburg/c-regionauten-community/drei-auszeichnungen-fuer-das-projekt-der-salzburg-ag-zwei-fuer-das-projekt-der-oebb-infrastruktur-ag_a8605967) |
-| Apr 2026 | TED | [How I created OpenClaw, the breakthrough AI agent](https://www.ted.com/talks/peter_steinberger_how_i_created_openclaw_the_breakthrough_ai_agent) (Peter Steinberger TED Talk, Stefan + Gerhard mentioned) |
+| Apr 2026 | TED | [How I created OpenClaw, the breakthrough AI agent](https://www.ted.com/talks/peter_steinberger_how_i_created_openclaw_the_breakthrough_ai_agent) (Lobster Lager mentioned in Peter Steinberger's talk) |
 | Apr 2026 | Der Standard | [Pensionist aus Salzburg lässt OpenClaw sein eigenes Bier brauen](https://www.derstandard.at/story/3000000315024/bier-brauen-openclaw-ki) |
 | Apr 2026 | Die Presse | [Wie ein KI Projekt aus Österreich bei Nvidia landen konnte](https://diepresse1848.podigee.io/1502-lobster) (Podcast) |
 | Apr 2026 | brutkasten | [Wie Stefan Erschwendner mit einem KI Bier auf der Nvidia Keynote landete](https://brutkasten.com/artikel/wie-stefan-erschwendner-mit-einem-ki-bier-auf-der-nvidia-keynote-landete) |
 | Mar 2026 | Business Insider DE | [Österreicher brauen Bier mit KI Agent und landen in Keynote vom Nvidia Chef](https://www.businessinsider.de/wirtschaft/oesterreicher-brauen-bier-mit-ki-agent-und-landen-in-keynote-vom-nvidia-chef/) |
 | Mar 2026 | Business Punk | [NVIDIA Chef "schmeckts": Austria KI Agenten brauen und vermarkten Bier](https://www.business-punk.com/tech/nvidia-chef-schmeckts-austria-ki-agenten-brauen-und-vermarkten-bier/) |
 | Mar 2026 | GEWINN | [Österreichisches AI Projekt auf Nvidia Bühne](https://www.gewinn.com/artikel/oesterreichisches-ai-projekt-auf-nvidia-buehne) |
-| Mar 2026 | KURIER | [Zwei Österreicher sorgen mit Lobster Lager für Aufsehen](https://x.com/KURIERat/status/2038833221861863572) |
+| Mar 2026 | KURIER | [Zwei Österreicher sorgen mit Lobster Lager für Aufsehen](https://kurier.at/wirtschaft/ki-bier-lobster-lager-stefan-erschwendner-frontira-nvidia/403145008) |
 | Mar 2026 | Nachrichten.at | [Österreicher brauen KI Bier und begeistern damit selbst den Nvidia Chef](https://www.nachrichten.at/panorama/web/oesterreicher-brauen-ki-bier-und-begeistern-damit-selbst-den-nvidia-chef;art122,4156704) |
 | Mar 2026 | Trending Topics | [Österreicher brauen mit AI Agent Bier und landen auf NVIDIA Hauptbühne](https://www.trendingtopics.eu/oesterreicher-brauen-mit-ai-agent-bier-und-landen-auf-nvidia-hauptbuehne/) |
 | Mar 2026 | VOL.AT | [Ein Bier, ein KI Agent und ein Vorarlberger auf der größten Tech Bühne der Welt](https://www.vol.at/ein-bier-ein-ki-agent-und-ploetzlich-auf-der-groessten-tech-buehne/10069688) |
