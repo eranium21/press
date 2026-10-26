@@ -6,6 +6,7 @@ Selected editorial coverage, interviews, podcasts and third-party mentions of St
 
 | Date | Outlet | Story |
 |------|--------|-------|
+| 21 Oct 2026 | **Salzburger Nachrichten** | [Nach Erfolg mit KI-Bier will ein Salzburger Senioren begeistern: „Pensionisten kann man nicht durch KI ersetzen“](https://www.sn.at/wirtschaft/oesterreich/nach-erfolg-mit-ki-bier-will-ein-salzburger-senioren-begeistern-pensionisten-kann-man-nicht-durch-ki-ersetzen-art-679456) (Iris Burtscher interview with Gerhard Erschwendner about Lobster Lager and AI for older people) |
 | Oct 2026 | **Was KI kann** | [Schluss mit Doom! Warum wir alle bei KI zu pessimistisch sind](https://open.spotify.com/episode/0U9UdSZwwYMasst2D4RLcf) (Podcast with Stefan Erschwendner) |
 | Oct 2026 | **Business Punk** | [Agentic Business Engineering: Der nächste Schritt von OpenAI](https://www.business-punk.com/agentic-business-engineering-der-naechste-schritt-von-openai/) (Interview with Carsten Puschmann, 8 October) |
 | Oct 2026 | **Die Presse** | [KI-Agenten: Warum trotz aller Warnungen niemand bremst](https://www.diepresse.com/41319730/ki-agenten-warum-trotz-aller-warnungen-niemand-bremst) ([Podcast](https://diepresse1848.podigee.io/1641-devday)) |
